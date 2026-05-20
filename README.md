@@ -39,8 +39,8 @@ plt.axis('off')
 ```
 # Erode the image
 ```
-#NAME: POOJA P
-#REG NO: 212224230195
+#NAME: NIKSHITHA S
+#REG NO: 212224040220
 kernel = np.ones((3, 3), np.uint8)
 eroded_image = cv2.erode(image, kernel, iterations=1)
 
