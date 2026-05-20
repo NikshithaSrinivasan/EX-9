@@ -50,8 +50,8 @@ plt.axis('off')
 ```
 # Dilate the image
 ```
-#NAME: POOJA P
-#REG NO: 212224230195
+#NAME: NIKSHITHA S
+#REG NO: 212224040220
 dilated_image = cv2.dilate(image, kernel, iterations=1)
 
 
